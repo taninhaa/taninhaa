@@ -5,7 +5,8 @@ I’m driven by the power of data transformation — from raw information to val
 
 ## 🛠 Tech Stack & Skills
 - **Languages:** Python, R, SQL, C, C++  
-- **Data Engineering & Processing:** Apache NiFi, Google Cloud Platform (GCP), Dataiku  
+- **Data Engineering & Processing:** Apache NiFi, Google Cloud Platform (GCP), Dataiku
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  
 - **Data Science & Analytics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn  
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch  
 - **Big Data & Cloud Computing:** GCP, Apache NiFi  
