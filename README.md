@@ -1,7 +1,7 @@
 # Hey there! I'm Tania 👋
 
 ## 🚀 Data Enthusiast | Data Explorer | Passionate About Turning Data Into Impact  
-I’m driven by the power of data transformation — from raw information to valuable insights, products, and tools. I enjoy working across the entire pipeline: collecting, cleaning, analyzing, and building solutions that make data truly useful.
+I’m driven by the power of data transformation, from raw information to valuable insights, products, and tools. I enjoy working across the entire pipeline: collecting, cleaning, analyzing, and building solutions that make data truly useful.
 
 ## 🛠 Tech Stack & Skills
 - **Languages:** Python, R, SQL, C, C++  
